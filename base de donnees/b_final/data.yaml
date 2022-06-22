@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 19
+names: ['Bab El-khamis', 'Bab Mansour', 'Bab berdaine', 'Bab chellah', 'Grande mosquee de Meknes', 'Heri es souani', 'Koutoubia', 'Medersa Attarine', 'Menara', 'Mosque hassa 2', 'Musee Mohammed VI', 'Musee Nejjarin', 'Oualili', 'Palais El Badi', 'Palais Royal de Fes', 'Porte Bab Boujloud', 'Tannerie Chouara', 'Tombeaux saadiens', 'Tour hassan']
