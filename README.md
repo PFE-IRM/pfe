@@ -11,15 +11,15 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 ## The Application Summary
 
 * Step1: Choose a Picture
-![alt text](readme/1.jpeg)
+![alt text](Readme/1.jpeg)
 * Step2: Click The Detection Button
-![alt text](readme/2.jpeg)
+![alt text](Readme/2.jpeg)
 * Step3: The results show up
-![alt text](readme/3.jpeg)
+![alt text](Readme/3.jpeg)
 
 ## The Model Summary
 
 The model has an overall precision of 94.7%, Recall of 9.91% and mAP@.5 of 95.7%
 
-![alt text](readme/r1.PNG)
-![alt text](readme/r2.PNG)
+![alt text](Readme/r1.PNG)
+![alt text](Readme/r2.PNG)
