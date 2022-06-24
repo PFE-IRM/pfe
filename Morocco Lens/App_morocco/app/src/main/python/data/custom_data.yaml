@@ -5,4 +5,4 @@ test: ../data/images/test
 
 
 nc: 6  # number of classes
-names: ['Bab Chellah Rabat','Bab Lahdim Meknes','Tour Hassan Rabat','Hassan2 Mosque','Koutoubia Marrakech','Menara Marrakech']  # class names
+names: names: ['Bab El-khamis', 'Bab Mansour', 'Bab Berdaine', 'Bab chellah', 'Grande mosquee de Meknes', 'Heri es Souani', 'Koutoubia', 'Medersa Attarine', 'Menara', 'Mosquee Hassan2', 'Musee Mohammed VI', 'Musee Nejjarine', 'Oualili', 'Palais El Badi', 'Palais Royal de Fes', 'Porte Bab Boujloud', 'Tannerie Chouara', 'Tombeaux Saadiens', 'Tour Hassan']  # class names
